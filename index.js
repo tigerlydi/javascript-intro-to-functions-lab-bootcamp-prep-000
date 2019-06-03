@@ -21,4 +21,7 @@ return "YES INDEED!"
 } else if (string === "I love you, Grandma.") {
   return "I love you, too."
 }
+<<<<<<< HEAD
 }
+=======
+>>>>>>> 13ba902ed1ec8dd85326ccb868ff0618496b5b2a
